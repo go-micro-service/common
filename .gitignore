@@ -1,0 +1,15 @@
+# dir
+.idea/
+build/
+
+
+# file
+.env
+.DS_Store
+logs/*
+## 配置文件
+conf/*.conf
+## 当前项目的可执行文件
+briclock
+## bee run 生成的临时文件
+*.tmp

@@ -1,4 +1,4 @@
-module git.imooc.com/go_micro_service/common
+module git.imooc.com/go-micro-service/common
 
 go 1.14
 

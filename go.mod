@@ -1,6 +1,6 @@
-module git.imooc.com/coding-447/common
+module git.imooc.com/go_micro_service/common
 
-go 1.13
+go 1.14
 
 require (
 	github.com/HdrHistogram/hdrhistogram-go v0.9.0 // indirect
